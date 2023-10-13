@@ -1,6 +1,6 @@
 package main
-import "fmt"
 
+import "fmt"
 
 func merge(nums1 []int, m int, nums2 []int, n int) {
 	k := m + n - 1
